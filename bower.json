@@ -5,7 +5,7 @@
     "ferron <ferronrsmith@gmail.com>"
   ],
   "description": "LocalStorage/SessionStorage Polyfill with Safari Private Browsing support",
-  "main": "",
+  "main": "storage.polyfill.js",
   "license": "MIT",
   "private": true,
   "ignore": [
